@@ -1,0 +1,10 @@
+.env
+venv
+staticfiles
+__pycache__
+*.pyc
+db.sqlite3
+.idea
+ecommerceDB
+.dockerignore
+migrations/
